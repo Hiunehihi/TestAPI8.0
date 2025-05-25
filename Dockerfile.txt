@@ -5,24 +5,23 @@ WORKDIR /app
 # Copy project file(s)
 COPY Server/Server.csproj ./Server/
 
-# Restore dependencies (chạy trong thư mục chứa .csproj)
+# Chuyển thư mục vào Server để restore
 WORKDIR /app/Server
 RUN dotnet restore
 
-# Copy toàn bộ mã nguồn (để build)
+# Copy toàn bộ source code từ thư mục Server
 COPY Server/. ./
 
-# Build và publish output ra /app/out
+# Build và publish
 RUN dotnet publish -c Release -o /app/out
 
 # --- Runtime stage ---
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 
-# Copy output từ build stage
+# Copy thư mục publish output
 COPY --from=build /app/out ./
 
-# Expose port, cho phép listen
 ENV ASPNETCORE_URLS=http://+:10000
 EXPOSE 10000
 
