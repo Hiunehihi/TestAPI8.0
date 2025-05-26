@@ -1,96 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\nt131-huymt-main\\nt131-huymt-main\\",
+  "WorkspaceRootPath": "F:\\nt131-huymt-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\controller\\smokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\controller\\smokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\controller\\smokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\controller\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\controller\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\controller\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\pages\\smokemonitor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\pages\\smokemonitor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\pages\\smokemonitor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\models\\temperaturelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\models\\temperaturelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\models\\temperaturelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\controller\\pushnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\controller\\pushnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\controller\\pushnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\models\\smokelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\models\\smokelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\models\\smokelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\controller\\messhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\controller\\messhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\controller\\messhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\migrations\\20250326074119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\migrations\\20250326074119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\migrations\\20250326074119_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|d:\\nt131-huymt-main\\nt131-huymt-main\\server\\migrations\\20250522051209_createsmokelogstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|f:\\nt131-huymt-main\\server\\migrations\\20250522051209_createsmokelogstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{019D91AD-F061-457A-91AA-947E41F7FA10}|Server\\Server.csproj|solutionrelative:server\\migrations\\20250522051209_createsmokelogstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,192 +114,202 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.razor",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\App.razor",
-              "RelativeDocumentMoniker": "Server\\App.razor",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\App.razor",
-              "RelativeToolTip": "Server\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T04:57:40.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Host.cshtml",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\_Host.cshtml",
-              "RelativeDocumentMoniker": "Server\\Pages\\_Host.cshtml",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\_Host.cshtml",
-              "RelativeToolTip": "Server\\Pages\\_Host.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:26:44.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Server\\Pages\\Counter.razor",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\Counter.razor",
-              "RelativeToolTip": "Server\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:26:46.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FetchData.razor",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\FetchData.razor",
-              "RelativeDocumentMoniker": "Server\\Pages\\FetchData.razor",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\FetchData.razor",
-              "RelativeToolTip": "Server\\Pages\\FetchData.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T13:26:48.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SmokeMonitor.razor",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\SmokeMonitor.razor",
-              "RelativeDocumentMoniker": "Server\\Pages\\SmokeMonitor.razor",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\SmokeMonitor.razor",
-              "RelativeToolTip": "Server\\Pages\\SmokeMonitor.razor",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T04:54:00.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TemperatureController.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\TemperatureController.cs",
-              "RelativeDocumentMoniker": "Server\\Controller\\TemperatureController.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\TemperatureController.cs",
-              "RelativeToolTip": "Server\\Controller\\TemperatureController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAiwF0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:39:29.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SmokeController.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\SmokeController.cs",
-              "RelativeDocumentMoniker": "Server\\Controller\\SmokeController.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\SmokeController.cs",
-              "RelativeToolTip": "Server\\Controller\\SmokeController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:26:08.998Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T17:21:34.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\appsettings.json",
-              "RelativeDocumentMoniker": "Server\\appsettings.json",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\appsettings.json",
-              "RelativeToolTip": "Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-02T14:16:34.698Z",
-              "EditorCaption": ""
+              "Title": "Server",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T17:21:27.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TemperatureLog.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Models\\TemperatureLog.cs",
-              "RelativeDocumentMoniker": "Server\\Models\\TemperatureLog.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Models\\TemperatureLog.cs",
-              "RelativeToolTip": "Server\\Models\\TemperatureLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T07:18:22.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SmokeLog.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Models\\SmokeLog.cs",
-              "RelativeDocumentMoniker": "Server\\Models\\SmokeLog.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Models\\SmokeLog.cs",
-              "RelativeToolTip": "Server\\Models\\SmokeLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:23:14.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.razor",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Server\\Pages\\Index.razor",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Pages\\Index.razor",
-              "RelativeToolTip": "Server\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\App.razor",
+              "RelativeDocumentMoniker": "Server\\App.razor",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\App.razor",
+              "RelativeToolTip": "Server\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T07:43:13.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PushNotifier.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\PushNotifier.cs",
-              "RelativeDocumentMoniker": "Server\\Controller\\PushNotifier.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\PushNotifier.cs",
-              "RelativeToolTip": "Server\\Controller\\PushNotifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:53:42.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T04:57:40.322Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "NotificationController.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\NotificationController.cs",
-              "RelativeDocumentMoniker": "Server\\Controller\\NotificationController.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\NotificationController.cs",
-              "RelativeToolTip": "Server\\Controller\\NotificationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:55:23.738Z",
-              "EditorCaption": ""
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Server\\Pages\\_Host.cshtml",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Server\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:26:44.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "render.yaml",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\render.yaml",
-              "RelativeDocumentMoniker": "Server\\render.yaml",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\render.yaml",
-              "RelativeToolTip": "Server\\render.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-25T02:08:38.717Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Server\\Pages\\Counter.razor",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Pages\\Counter.razor",
+              "RelativeToolTip": "Server\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:26:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Server\\Pages\\FetchData.razor",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Server\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T13:26:48.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmokeMonitor.razor",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Pages\\SmokeMonitor.razor",
+              "RelativeDocumentMoniker": "Server\\Pages\\SmokeMonitor.razor",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Pages\\SmokeMonitor.razor",
+              "RelativeToolTip": "Server\\Pages\\SmokeMonitor.razor",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:54:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TemperatureController.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Controller\\TemperatureController.cs",
+              "RelativeDocumentMoniker": "Server\\Controller\\TemperatureController.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Controller\\TemperatureController.cs",
+              "RelativeToolTip": "Server\\Controller\\TemperatureController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwF0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:39:29.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmokeController.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Controller\\SmokeController.cs",
+              "RelativeDocumentMoniker": "Server\\Controller\\SmokeController.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Controller\\SmokeController.cs",
+              "RelativeToolTip": "Server\\Controller\\SmokeController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:26:08.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T14:16:34.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemperatureLog.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Models\\TemperatureLog.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\TemperatureLog.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Models\\TemperatureLog.cs",
+              "RelativeToolTip": "Server\\Models\\TemperatureLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:18:22.029Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "SmokeLog.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Models\\SmokeLog.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\SmokeLog.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Models\\SmokeLog.cs",
+              "RelativeToolTip": "Server\\Models\\SmokeLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:23:14.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.razor",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Server\\Pages\\Index.razor",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Pages\\Index.razor",
+              "RelativeToolTip": "Server\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T07:43:13.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PushNotifier.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Controller\\PushNotifier.cs",
+              "RelativeDocumentMoniker": "Server\\Controller\\PushNotifier.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Controller\\PushNotifier.cs",
+              "RelativeToolTip": "Server\\Controller\\PushNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:53:42.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Controller\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controller\\NotificationController.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Controller\\NotificationController.cs",
+              "RelativeToolTip": "Server\\Controller\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:55:23.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "render.yaml",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\render.yaml",
+              "RelativeDocumentMoniker": "Server\\render.yaml",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\render.yaml",
+              "RelativeToolTip": "Server\\render.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-25T02:08:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Program.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Program.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +317,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "MessHub.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\MessHub.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Controller\\MessHub.cs",
               "RelativeDocumentMoniker": "Server\\Controller\\MessHub.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Controller\\MessHub.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Controller\\MessHub.cs",
               "RelativeToolTip": "Server\\Controller\\MessHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -321,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Server\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Server\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Server\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "Server\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20250522051209_CreateSmokeLogsTable.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Migrations\\20250522051209_CreateSmokeLogsTable.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Migrations\\20250522051209_CreateSmokeLogsTable.cs",
               "RelativeDocumentMoniker": "Server\\Migrations\\20250522051209_CreateSmokeLogsTable.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Migrations\\20250522051209_CreateSmokeLogsTable.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Migrations\\20250522051209_CreateSmokeLogsTable.cs",
               "RelativeToolTip": "Server\\Migrations\\20250522051209_CreateSmokeLogsTable.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "WeatherForecastService.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Data\\WeatherForecastService.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Data\\WeatherForecastService.cs",
               "RelativeDocumentMoniker": "Server\\Data\\WeatherForecastService.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Data\\WeatherForecastService.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Data\\WeatherForecastService.cs",
               "RelativeToolTip": "Server\\Data\\WeatherForecastService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -369,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Data\\WeatherForecast.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Data\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Server\\Data\\WeatherForecast.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Data\\WeatherForecast.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Data\\WeatherForecast.cs",
               "RelativeToolTip": "Server\\Data\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20250326074119_InitialCreate.cs",
-              "DocumentMoniker": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Migrations\\20250326074119_InitialCreate.cs",
+              "DocumentMoniker": "F:\\nt131-huymt-main\\Server\\Migrations\\20250326074119_InitialCreate.cs",
               "RelativeDocumentMoniker": "Server\\Migrations\\20250326074119_InitialCreate.cs",
-              "ToolTip": "D:\\nt131-huymt-main\\nt131-huymt-main\\Server\\Migrations\\20250326074119_InitialCreate.cs",
+              "ToolTip": "F:\\nt131-huymt-main\\Server\\Migrations\\20250326074119_InitialCreate.cs",
               "RelativeToolTip": "Server\\Migrations\\20250326074119_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
