@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Server.Data;
 using Microsoft.EntityFrameworkCore;
@@ -18,20 +18,19 @@ builder.Services.AddControllers();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactNative",
-        policy =>
-        {
-            policy.AllowAnyOrigin()
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
+    options.AddPolicy("AllowReactNative", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
 });
 
 builder.Services.AddSignalR();
 
 var app = builder.Build();
 
-// Middleware
+// Middleware pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
@@ -47,16 +46,14 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-// ** Đặt UseCors trước MapControllers để áp dụng CORS cho API **
+// Đặt UseCors sau UseRouting và trước UseAuthentication/UseAuthorization (nếu có)
 app.UseCors("AllowReactNative");
 
-// Nếu có xác thực, đặt app.UseAuthentication(); và app.UseAuthorization(); ở đây
 
-// Map các route
-app.MapControllers();              // API controller
-app.MapRazorPages();               // Razor pages
-app.MapBlazorHub();                // Blazor SignalR hub
-app.MapHub<MessHub>("/MessHub");  // SignalR hub riêng (messaging)
-app.MapFallbackToPage("/_Host");  // fallback cho Blazor
+app.MapControllers();
+app.MapRazorPages();
+app.MapBlazorHub();
+app.MapHub<MessHub>("/MessHub");
+app.MapFallbackToPage("/_Host");
 
 app.Run();
