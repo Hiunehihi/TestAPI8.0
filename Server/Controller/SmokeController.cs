@@ -12,7 +12,7 @@ using System.Diagnostics;
 namespace Server.Controllers
 {
     [ApiController]
-    [Route("api/smoke")]
+    [Route("smoke")]
     public class SmokeController : ControllerBase
     {
         private readonly AppDbContext _context;
