@@ -58,5 +58,6 @@ app.MapRazorPages();               // Razor pages
 app.MapBlazorHub();                // Blazor SignalR hub
 app.MapHub<MessHub>("/MessHub");  // SignalR hub riêng (messaging)
 app.MapFallbackToPage("/_Host");  // fallback cho Blazor
+app.UseCors("AllowAll");
 
 app.Run();
