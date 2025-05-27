@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace Server.Controllers
 {
     [ApiController]
-    [Route("api/[temperature]")]
+    [Route("api/temperature")]
     public class TemperatureController : ControllerBase
     {
         private readonly AppDbContext _context;
