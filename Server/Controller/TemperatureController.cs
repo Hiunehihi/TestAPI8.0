@@ -30,7 +30,7 @@ namespace Server.Controllers
             public bool Alert { get; set; } = false; // Cảnh báo
             public string AlertMessage { get; set; } = null; // Thông điệp cảnh báo
         }
-        [HttpPost]
+        [HttpPost("posting")]
         public async Task<IActionResult> ReceiveTemperature([FromBody] TemperatureLog data)
         {
             if (data == null || data.Temperature <= 0)

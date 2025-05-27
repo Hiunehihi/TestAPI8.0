@@ -34,7 +34,7 @@ namespace Server.Controllers
             public string AlertMessage { get; set; } = null;
         }
 
-        [HttpPost]
+        [HttpPost("posting")]
         public async Task<IActionResult> ReceiveSmoke([FromBody] SmokeLog data)
         {
             if (data == null || data.SmokeLevel < 0)
